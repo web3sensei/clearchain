@@ -1,4 +1,4 @@
-$ClearChainhttps://github.com/web3sensei/clearchain/blob/main/README.md
+$ClearChain
 ==========
 
 **The open-source LLM Vulnerability Scanner**
