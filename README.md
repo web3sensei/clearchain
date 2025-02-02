@@ -1,5 +1,3 @@
-  ClearChain - Open Source LLM Vulnerability Scanner body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; max-width: 1200px; margin: 0 auto; padding: 20px; color: #333; } h1, h2, h3 { color: #2c3e50; } h1 { border-bottom: 3px solid #3498db; padding-bottom: 10px; } h2 { color: #2980b9; margin-top: 30px; } code { background-color: #f5f5f5; padding: 2px 5px; border-radius: 3px; } pre { background-color: #f8f9fa; padding: 15px; border-radius: 5px; overflow-x: auto; } .badges { margin: 20px 0; display: flex; gap: 10px; flex-wrap: wrap; } .feature-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0; } .feature-card { padding: 15px; border: 1px solid #e0e0e0; border-radius: 8px; } table { width: 100%; border-collapse: collapse; margin: 20px 0; } th, td { border: 1px solid #ddd; padding: 8px; text-align: left; } th { background-color: #f8f9fa; } a { color: #3498db; text-decoration: none; } a:hover { text-decoration: underline; }
-
 ClearChain
 ==========
 
